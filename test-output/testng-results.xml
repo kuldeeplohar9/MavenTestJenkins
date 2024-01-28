@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-28T17:01:37 IST" name="CalcSuite" finished-at="2024-01-28T17:01:37 IST" duration-ms="91">
+  <suite started-at="2024-01-28T19:58:10 IST" name="Suite" finished-at="2024-01-28T19:58:10 IST" duration-ms="115">
     <groups>
     </groups>
-    <test started-at="2024-01-28T17:01:37 IST" name="TestCalc" finished-at="2024-01-28T17:01:37 IST" duration-ms="91">
+    <test started-at="2024-01-28T19:58:10 IST" name="Test" finished-at="2024-01-28T19:58:10 IST" duration-ms="115">
       <class name="com.test.testing.TestCalc">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.test.testing.TestCalc@696da30b]" started-at="2024-01-28T17:01:37 IST" name="beforeMethod" finished-at="2024-01-28T17:01:37 IST" duration-ms="9" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.test.testing.TestCalc@696da30b]" started-at="2024-01-28T19:58:10 IST" name="beforeMethod" finished-at="2024-01-28T19:58:10 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="Testadd()[pri:0, instance:com.test.testing.TestCalc@696da30b]" started-at="2024-01-28T17:01:37 IST" name="Testadd" finished-at="2024-01-28T17:01:37 IST" duration-ms="13" status="PASS">
+        <test-method signature="Testadd()[pri:0, instance:com.test.testing.TestCalc@696da30b]" started-at="2024-01-28T19:58:10 IST" name="Testadd" finished-at="2024-01-28T19:58:10 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testadd -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.test.testing.TestCalc@696da30b]" started-at="2024-01-28T17:01:37 IST" name="afterMethod" finished-at="2024-01-28T17:01:37 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.test.testing.TestCalc@696da30b]" started-at="2024-01-28T19:58:10 IST" name="afterMethod" finished-at="2024-01-28T19:58:10 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- com.test.testing.TestCalc -->
-    </test> <!-- TestCalc -->
-  </suite> <!-- CalcSuite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
